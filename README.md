@@ -1,3 +1,2 @@
-# My Personal Website
+# Page 1
 
-A website for my blog posts, CTF writeups and other exciting projects!
