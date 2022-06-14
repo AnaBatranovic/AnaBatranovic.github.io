@@ -53,7 +53,7 @@ hightlightjs = true
     name = "blogs and writeups"
     identifier = "blogs and writeups"
     weight = 200
-    url = "/blogs-and-writeups/"
+    url = "https://blogs-and-writeups-ana-batranovic.netlify.app/"
 [[menu.main]]
     name = "code snippets"
     identifier = "code snippets"
