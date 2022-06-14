@@ -1,3 +1,61 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+## Basic Configuration
+
+baseurl = "https://anabatranovic.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Ana Batranović"
+title = "Ana Batranović"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+googleAnalytics = "XYZ"
+enableRobotsTXT = false
+
+## Site Settings
+[params]
+author = "Ana Batranović"
+intro = "Huge Nerd & Cybersec Enthusiast"
+description = "Currently a highschool student. Learning as much as I can. <strong>Blogs and Writeups, below!</strong>"
+authorimage = "mypfp.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "My Landing Page"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "<username>"
+linkedin = "<username>"
+email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2022. Ana Batranović. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    weight = 100
+    identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "blogs and writeups"
+    identifier = "blogs and writeups"
+    weight = 200
+    url = "/blogs-and-writeups/"
+[[menu.main]]
+    name = "code snippets"
+    identifier = "code snippets"
+    weight = 300
+    url = "/404.html"
