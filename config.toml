@@ -29,13 +29,13 @@ dateformat = "Jan 2, 2006"
 ## Site Meta Settings
 [params.meta]
 description = "My Landing Page"
-keywords = "minimalist,blog,goa,hugo,developer"
+keywords = "ana,batranovic,personal,website,tech,cybersecurity"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
-linkedin = "<username>"
-email = "you@example.com"
+github = "AnaBatranovic"
+linkedin = "ana-batranovic"
+email = "ana.batranovic@gmail.com"
 
 ## Extras
 [params.extra]
@@ -53,7 +53,7 @@ hightlightjs = true
     name = "blogs and writeups"
     identifier = "blogs and writeups"
     weight = 200
-    url = "https://blogs-and-writeups-ana-batranovic.netlify.app/"
+    url = "https://blog.anabatranovic.tech/"
 [[menu.main]]
     name = "code snippets"
     identifier = "code snippets"
