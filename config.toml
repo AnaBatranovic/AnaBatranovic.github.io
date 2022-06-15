@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://anabatranovic.netlify.app/" 
+baseurl = "https://anabatranovic.tech/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
