@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://anabatranovic.tech/" 
+baseurl = "https://aquilosec.com/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -21,15 +21,15 @@ enableRobotsTXT = false
 ## Site Settings
 [params]
 author = "Ana Batranović"
-intro = "Huge Nerd & Cybersec Enthusiast"
-description = "Currently a highschool student. Learning as much as I can. <strong>Blogs and Writeups, below!</strong>"
+intro = "Pentester | Cyborg"
+description = "Junior Pentester @ UN1QUELY. I like hacking! <strong>Blogs and Writeups, below!</strong>"
 authorimage = "mypfp.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "My Landing Page"
-keywords = "ana,batranovic,personal,website,tech,cybersecurity"
+keywords = "ana,batranovic,personal,website,tech,cybersecurity,aquilo,"
 
 ## Social Accounts
 [params.social]
@@ -39,7 +39,7 @@ email = "ana.batranovic@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2022. Ana Batranović. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2023. Ana Batranović. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 hightlightjs = true
 
@@ -53,7 +53,7 @@ hightlightjs = true
     name = "blogs and writeups"
     identifier = "blogs and writeups"
     weight = 200
-    url = "https://blog.anabatranovic.tech/"
+    url = "https://blog.aquilosec.com/"
 [[menu.main]]
     name = "code snippets"
     identifier = "code snippets"
